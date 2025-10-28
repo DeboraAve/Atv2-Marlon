@@ -1,0 +1,19 @@
+[
+  {
+    "pedidoId": "p-0001",
+    "status": "EM_PREPARACAO",
+    "rota": null
+  },
+  {
+    "pedidoId": "p-0002",
+    "status": "EM_ROTA",
+    "rota": "R1"
+  },
+  {
+    "pedidoId": "p-0100",
+    "status": "EM_ROTA",
+    "rota": "R-PREMIUM-GALPAO-CENTRO",
+    "galpaoId": "GALPAO-CENTRO",
+    "galpaoNome": "Galpão Centro"
+  }
+]

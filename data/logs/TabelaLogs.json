@@ -1,0 +1,30 @@
+[
+  {
+    "origem": "recebePedido",
+    "pedidoId": "p-0100",
+    "data": "2025-10-28T17:39:22.542939"
+  },
+  {
+    "origem": "processaRotas",
+    "pedidoId": "p-0100",
+    "rota": "R-PREMIUM-GALPAO-CENTRO",
+    "data": "2025-10-28T17:39:22.878519"
+  },
+  {
+    "origem": "recebePedido",
+    "pedidoId": "p-0100",
+    "data": "2025-10-28T18:36:49.639064"
+  },
+  {
+    "origem": "processaRotas",
+    "pedidoId": "p-0100",
+    "rota": "R-PREMIUM-GALPAO-CENTRO",
+    "data": "2025-10-28T18:36:49.679142"
+  },
+  {
+    "origem": "atualizaStatusPedido",
+    "pedidoId": "p-0100",
+    "status": "EM_ROTA",
+    "data": "2025-10-28T18:36:49.710683"
+  }
+]
