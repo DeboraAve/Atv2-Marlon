@@ -1,0 +1,9 @@
+{
+  "pedidoId": "p-0100",
+  "clienteId": "c-1001",
+  "itens": [
+    { "sku": "SKU-ABC", "qtd": 2 },
+    { "sku": "SKU-XYZ", "qtd": 1 }
+  ],
+  "valorTotal": 199.9
+}

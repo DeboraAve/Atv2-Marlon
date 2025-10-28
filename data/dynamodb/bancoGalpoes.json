@@ -1,0 +1,5 @@
+[
+  { "galpaoId": "GALPAO-CENTRO", "nome": "Galpão Centro", "latitude": -23.5489, "longitude": -46.6388, "capacidade": 10000 },
+  { "galpaoId": "GALPAO-LESTE", "nome": "Galpão Zona Leste", "latitude": -23.5431, "longitude": -46.6292, "capacidade": 8000 },
+  { "galpaoId": "GALPAO-SUL", "nome": "Galpão Zona Sul", "latitude": -23.5568, "longitude": -46.6397, "capacidade": 12000 }
+]

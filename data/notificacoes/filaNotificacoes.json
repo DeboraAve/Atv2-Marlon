@@ -1,0 +1,30 @@
+[
+  {
+    "tipo": "NOVO_PEDIDO",
+    "pedidoId": "p-0100",
+    "quando": "2025-10-28T17:39:22.542939"
+  },
+  {
+    "tipo": "PEDIDO_PROCESSADO",
+    "pedidoId": "p-0100",
+    "rota": "R-PREMIUM-GALPAO-CENTRO",
+    "quando": "2025-10-28T17:39:22.872669"
+  },
+  {
+    "tipo": "NOVO_PEDIDO",
+    "pedidoId": "p-0100",
+    "quando": "2025-10-28T18:36:49.639064"
+  },
+  {
+    "tipo": "PEDIDO_PROCESSADO",
+    "pedidoId": "p-0100",
+    "rota": "R-PREMIUM-GALPAO-CENTRO",
+    "quando": "2025-10-28T18:36:49.665159"
+  },
+  {
+    "tipo": "STATUS_ATUALIZADO",
+    "pedidoId": "p-0100",
+    "status": "EM_ROTA",
+    "quando": "2025-10-28T18:36:49.730496"
+  }
+]
