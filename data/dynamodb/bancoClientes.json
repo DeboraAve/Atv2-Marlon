@@ -1,0 +1,4 @@
+[
+  { "clienteId": "c-1001", "nome": "Ana Silva", "endereco": "Rua A, 123", "latitude": -23.5505, "longitude": -46.6333 },
+  { "clienteId": "c-1002", "nome": "Joao Souza", "endereco": "Av. B, 999", "latitude": -23.5650, "longitude": -46.6520 }
+]
